@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9beff3ec-d6c1-4084-ae66-9ff64b6fb2e5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>HelloWorld.py</StartupFile>
+    <StartupFile>lamda.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="HelloWorld.py" />
+    <Compile Include="lamda.py" />
     <Compile Include="PythonNote.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
