@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9beff3ec-d6c1-4084-ae66-9ff64b6fb2e5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>lamda.py</StartupFile>
+    <StartupFile>boj_1018.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="boj_1018.py" />
+    <Compile Include="BOJ_10799.py" />
+    <Compile Include="BOJ_10815.py" />
+    <Compile Include="BOJ_10844.py" />
+    <Compile Include="BOJ_11047.py" />
+    <Compile Include="BOJ_11051.py" />
+    <Compile Include="BOJ_11726.py" />
+    <Compile Include="BOJ_11724.py" />
+    <Compile Include="BOJ_1449.py" />
+    <Compile Include="BOJ_1863.py" />
+    <Compile Include="BOJ_2178.py" />
+    <Compile Include="BOJ_2206.py" />
+    <Compile Include="BOJ_2309.py" />
+    <Compile Include="BOJ_2512.py" />
+    <Compile Include="BOJ_2748.py" />
+    <Compile Include="boj_9012.py" />
     <Compile Include="HelloWorld.py" />
     <Compile Include="lamda.py" />
     <Compile Include="PythonNote.py" />
